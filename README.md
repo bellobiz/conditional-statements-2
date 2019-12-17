@@ -1,10 +1,9 @@
 <h3>Lesson 2. Condition Statements (JavaScript)</h3> - <a href="http://ssqt.co/mQfpbL0">Codecademy Free Access</a>
 <ol>
   <li>What are Conditional Statements?<a>
-      href="https://drive.google.com/file/d/1YV5d5znz9-uk3FaF0kcvB-ikHlxpzN0j/view?usp=sharing"
-      <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-conditionals/control_flow_diagram_v5.svg" />
-  <li><a href="https://drive.google.com/file/d/13m9x0-KxrH7JFcmFraXlDA89_HglelA_/view?usp=sharing">The if keyword</a></li>
-  <div>Solution: https://repl.it/@OsagieNoah1/2-The-if-keyword="</div>
+      https://drive.google.com/file/d/1YV5d5znz9-uk3FaF0kcvB-ikHlxpzN0j/view?usp=sharing"
+      <div>Image: https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-conditionals/control_flow_diagram_v5.svg"</div>
+  <li> The if keyword</li> https://drive.google.com/file/d/13m9x0-KxrH7JFcmFraXlDA89_HglelA_/view?usp=sharing <div>Solution: https://repl.it/@OsagieNoah1/2-The-if-keyword="</div>
   <li>If...Else Statements</li>
   https://drive.google.com/file/d/1uGCuCJ6wg_CYPwxxIG5iXR1ez-6bWyR3/view?usp=sharing
   Solution: href="https://repl.it/@OsagieNoah1/3-IfElse-Statements?language=javascript&folderId="</div>
