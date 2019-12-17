@@ -5,7 +5,7 @@
   Image: https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-conditionals/control_flow_diagram_v5.svg
   <li>The if keyword</li>
   https://drive.google.com/file/d/13m9x0-KxrH7JFcmFraXlDA89_HglelA_/view?usp=sharing<br>
-  <div>Solution: https://repl.it/@OsagieNoah1/2-The-if-keyword=
+  <div>Solution: https://repl.it/@OsagieNoah1/3-IfElse-Statements?language=javascript&folderId=
   <li>If...Else Statements</li>
   https://drive.google.com/file/d/1uGCuCJ6wg_CYPwxxIG5iXR1ez-6bWyR3/view?usp=sharing<br>
   Solution: https://repl.it/@OsagieNoah1/3-IfElse-Statements?language=javascript&folderId=
